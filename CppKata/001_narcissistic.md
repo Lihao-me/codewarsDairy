@@ -87,6 +87,7 @@ bool narcissistic( int value ){
   else
   return 0;
 }
+```
 
 ### Best Practices
 ```c++
